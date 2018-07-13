@@ -1,2 +1,3 @@
 # Magical-Adventures
-Sprout inspired pack that I'm going to make
+
+Magical Adventures is a mainly magic and adventure focused modpack with some tech on the side. It was mainly inspired by sprout but sevtech ages also inspired it a little.
