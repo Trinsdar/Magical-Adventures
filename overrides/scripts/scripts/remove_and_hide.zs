@@ -1,6 +1,7 @@
 import crafttweaker.item.IItemStack;
 
 static removeAndHideItems as IItemStack[] = [
+	//remove most of the tinker's stuff
 	<tconstruct:shard:*>,
 	<tconstruct:sharpening_kit:*>,
 	<tconstruct:pick_head:*>,
@@ -76,7 +77,7 @@ static removeAndHideItems as IItemStack[] = [
 	<tconstruct:seared_stairs_tile>,
 	<tconstruct:seared_stairs_creeper>,
 	<tconstruct:cast:*>,
-	<tconstruct:cast_custom:*>
+	<tconstruct:cast_custom:*>,
 	<tconstruct:clay_cast:*>,
 	<tconstruct:soil>,
 	<tconstruct:soil:1>,
@@ -106,7 +107,10 @@ static removeAndHideItems as IItemStack[] = [
 	<tconstruct:ingots:5>,
 	<tconstruct:nuggets:3>,
 	<tconstruct:nuggets:4>,
-	<tconstruct:nuggets:5>
+	<tconstruct:nuggets:5>,
+
+	//Ore Excavation
+	<oeintegration:excavatemodifier>
 ];
 
 for item in removeAndHideItems {
