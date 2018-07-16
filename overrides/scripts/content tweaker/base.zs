@@ -20,6 +20,7 @@ import mods.contenttweaker.MaterialPartData;
             oreData.addDataValue("resistance", "15,15,15");
             oreData.addDataValue("harvestTool", "pickaxe,pickaxe,pickaxe");
             oreData.addDataValue("harvestLevel", "2,2,2");
+			oreData.addDataValue("drops", "contenttweaker:random_gem");
         }
     var end_gem_ore = end_gem.registerParts(ore_types);
             for i, ore in end_gem_ore {
@@ -29,6 +30,7 @@ import mods.contenttweaker.MaterialPartData;
             oreData.addDataValue("resistance", "15,15,15");
             oreData.addDataValue("harvestTool", "pickaxe,pickaxe,pickaxe");
             oreData.addDataValue("harvestLevel", "2,2,2");
+			oreData.addDataValue("drops", "contenttweaker:end_random_gem");
         }
     var nether_gem_ore = nether_gem.registerParts(ore_types);
             for i, ore in nether_gem_ore {
@@ -38,4 +40,5 @@ import mods.contenttweaker.MaterialPartData;
             oreData.addDataValue("resistance", "15,15,15");
             oreData.addDataValue("harvestTool", "pickaxe,pickaxe,pickaxe");
             oreData.addDataValue("harvestLevel", "2,2,2");
+			oreData.addDataValue("drops", "contenttweaker:nether_random_gem");
         }
