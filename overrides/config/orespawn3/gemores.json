@@ -1,0 +1,51 @@
+{
+	"version": "2.0",
+	"spawns": {
+		"nether_gem_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [-1],
+			"biomes": {
+				"excludes": []
+			},
+			"parameters": {
+				"size": 24,
+				"variation": 4,
+				"frequency": 2,
+				"minHeight": 30,
+				"maxHeight": 100
+			},
+			"blocks": [
+				{
+					"name": "contenttweaker:sub_block_holder_0:3",
+					"chance": 100
+				}
+			]
+		},
+		"end_gem_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [1],
+			"biomes": {
+				"excludes": []
+			},
+			"parameters": {
+				"size": 16,
+				"variation": 4,
+				"frequency": 2,
+				"minHeight": 16,
+				"maxHeight": 64
+			},
+			"blocks": [
+				{
+					"name": "contenttweaker:sub_block_holder_0:5",
+					"chance": 100
+				}
+			]
+		}
+	}
+}
