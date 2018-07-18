@@ -6,7 +6,7 @@
     1,
     20
   ],
-  "coalMinY": 28,
+  "coalMinY": 8,
   "coalMaxY": 78,
   "cinnabarSize": 64,
   "cinnabarChance": 15,
@@ -153,7 +153,7 @@
   "autuniteMinY": 8,
   "autuniteMaxY": 33,
   "sphaleriteSize": 24,
-  "sphaleriteChance": 6,
+  "sphaleriteChance": 12,
   "sphaleriteDimBlacklist": [
     -1,
     1,

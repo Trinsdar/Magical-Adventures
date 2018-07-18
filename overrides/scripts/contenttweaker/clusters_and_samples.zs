@@ -22,7 +22,7 @@ var oreSampleMaterials as Material[] = [
 
 var oreSampleDrops as string[Material] = {
 	materials.gem: "contenttweaker:random_gem",
-	materials.mercury: "contenttweaker:material_part:18"
+	materials.mercury: "contenttweaker:material_part:20"
 };
 
 for material in oreSampleMaterials {

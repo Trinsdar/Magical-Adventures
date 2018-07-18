@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "match": {
+        "drops": {
+          "drops": [
+            "basemetals:mercury_ore"
+          ]
+        }
+      },
+      "replaceStrategy": "REPLACE_ITEMS_IF_SELECTED",
+      "drops": [
+        {
+          "selector": {
+            "weight": {
+              "value": 100
+            }
+          },
+          "item": {
+            "items": [
+              "contenttweaker:material_part:20"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
