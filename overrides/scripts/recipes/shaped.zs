@@ -6,7 +6,7 @@ recipes.addShaped(<primal:leather_cordage>, [
 
 
 recipes.addShaped(<pickletweaks:grass_mesh>, [
-	[<minecraft:stick>, <primal:plant_cordage>]
+	[<minecraft:stick>, <primal:plant_cordage>],
 	[<primal:plant_cordage> ,<minecraft:stick>]
 
 ]);

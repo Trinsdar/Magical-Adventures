@@ -10,7 +10,7 @@ var durabilityArray = {
 
 
 	//Give grass fiber mesh and regular mesh more uses
-	<pickletweaks:grass_mesh> : 63
+	<pickletweaks:grass_mesh> : 63,
 	<pickletweaks:mesh> : 127
 
 } as int[IItemStack];
