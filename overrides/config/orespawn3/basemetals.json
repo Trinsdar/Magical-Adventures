@@ -193,7 +193,7 @@
 		},
 		"mercury_ore": {
 			"retrogen": false,
-			"enabled": true,
+			"enabled": false,
 			"feature": "default",
 			"replaces": "default",
 			"dimensions": [],
