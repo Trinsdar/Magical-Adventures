@@ -1,17 +1,12 @@
 {
   "savedSubBlockNames": {
     "0": {
-      "0": "nether_gem_dense_ore_minecraft_netherrack",
-      "1": "gem_poor_ore_minecraft_stone",
-      "2": "gem_dense_ore_minecraft_stone",
-      "3": "nether_gem_ore_minecraft_netherrack",
-      "4": "nether_gem_poor_ore_minecraft_netherrack",
-      "5": "end_gem_ore_minecraft_end_stone",
-      "6": "gem_ore_sample",
-      "7": "mercury_ore_sample",
-      "8": "gem_ore_minecraft_stone",
-      "9": "end_gem_dense_ore_minecraft_end_stone",
-      "10": "end_gem_poor_ore_minecraft_end_stone"
+      "0": "mercury_ore_minecraft_stone",
+      "1": "nether_gem_ore_minecraft_netherrack",
+      "2": "end_gem_ore_minecraft_end_stone",
+      "3": "gem_ore_sample",
+      "4": "mercury_ore_sample",
+      "5": "gem_ore_minecraft_stone"
     }
   }
 }

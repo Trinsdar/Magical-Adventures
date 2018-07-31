@@ -1,25 +1,15 @@
 {
   "materialMappings": {
-    "nether_gem_dense_ore_minecraft_netherrack": 20,
-    "gem_poor_ore_minecraft_stone": 13,
-    "nether_gem_poor_ore_minecraft_netherrack": 19,
-    "gem_poor_ore": 1,
-    "end_gem_ore_minecraft_end_stone": 15,
-    "mercury_ore_sample": 11,
-    "gem_ore_minecraft_stone": 12,
-    "end_gem_poor_ore_minecraft_end_stone": 16,
-    "end_gem_poor_ore": 4,
-    "end_gem_ore": 3,
-    "nether_gem_ore_minecraft_netherrack": 18,
-    "gem_dense_ore_minecraft_stone": 14,
-    "end_gem_dense_ore": 5,
-    "gem_dense_ore": 2,
-    "gem_ore_sample": 10,
-    "end_gem_dense_ore_minecraft_end_stone": 17,
-    "nether_gem_poor_ore": 7,
+    "mercury_ore_minecraft_stone": 10,
+    "end_gem_ore": 1,
+    "nether_gem_ore_minecraft_netherrack": 9,
+    "end_gem_ore_minecraft_end_stone": 8,
+    "mercury_ore_sample": 6,
+    "gem_ore_sample": 5,
+    "gem_ore_minecraft_stone": 7,
+    "mercury_ore": 4,
     "gem_ore": 0,
-    "mercury_cluster": 9,
-    "nether_gem_ore": 6,
-    "nether_gem_dense_ore": 8
+    "mercury_cluster": 3,
+    "nether_gem_ore": 2
   }
 }
